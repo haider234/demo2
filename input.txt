@@ -1,3 +1,5 @@
 NULL,
 NULL
 #Edited for git rebase -i HEAD~3
+#git add -u
+# git commit --amend
